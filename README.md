@@ -4,6 +4,8 @@ It is really simple static blog template, based on Markdown files. Every markdow
 
 ![Demo screen](https://github.com/artyom-ivanov/blog-template/blob/main/screen.png?raw=true)
 
+## [Watch demo](https://artyom-ivanov.github.io/blog-template/)
+
 ### Made with
 
 - Gatsby
