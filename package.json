@@ -5,14 +5,20 @@
   "description": "Gatsby Blog",
   "author": "Artyom Ivanov",
   "keywords": [
-    "gatsby", "tailwind", "minimal", "blog", "template", "typography"
+    "gatsby",
+    "tailwind",
+    "minimal",
+    "blog",
+    "template",
+    "typography"
   ],
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
     "@mdx-js/mdx": "^1.6.22",
@@ -29,6 +35,7 @@
   "devDependencies": {
     "autoprefixer": "^10.3.4",
     "gatsby-plugin-postcss": "^4.13.0",
+    "gh-pages": "^3.2.3",
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.14"
   }
