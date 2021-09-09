@@ -4,6 +4,7 @@ module.exports = {
     title: "Gatsby Blog",
   },
   plugins: [
+    "gatsby-plugin-postcss",
     "gatsby-plugin-sass",
     "gatsby-plugin-mdx",
     {
