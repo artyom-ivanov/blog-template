@@ -5,7 +5,7 @@
   "description": "Gatsby Blog",
   "author": "Artyom Ivanov",
   "keywords": [
-    "gatsby"
+    "gatsby", "tailwind", "minimal", "blog", "template", "typography"
   ],
   "scripts": {
     "develop": "gatsby develop",
