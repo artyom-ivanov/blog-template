@@ -2,6 +2,8 @@
 
 It is really simple static blog template, based on Markdown files. Every markdown file is a post. Each post will be displayed on the front page.
 
+![Demo screen](https://github.com/artyom-ivanov/blog-template/blob/main/screen.png?raw=true)
+
 ### Made with
 
 - Gatsby
